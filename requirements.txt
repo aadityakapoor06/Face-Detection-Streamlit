@@ -1,2 +1,2 @@
 streamlit
-opencv 4.3.0
+opencv 4.2.0
