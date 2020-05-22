@@ -1,2 +1,2 @@
 streamlit
-opencv 4.2.0
+opencv_python-4.2.0.34
